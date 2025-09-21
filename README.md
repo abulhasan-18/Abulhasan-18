@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Mohammed Abulhasan</h1>
 
-<!--
-**abulhasan-18/abulhasan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Software+%26+Data+Engineer;Spring+Boot+%7C+Next.js+%7C+Flutter+%7C+PostgreSQL+%7C+Supabase;Docker+%7C+Kubernetes+%7C+AWS+%7C+DBT;I+ship+fast%2C+measure%2C+iterate." alt="typing" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/abulhasan-18?tab=repositories"><img src="https://img.shields.io/badge/Code-On%20GitHub-111827" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abulhasan-256767235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2" /></a>
+  <a href="mailto:mdyahasan18@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0f766e" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abulhasan-18&label=Views&color=555" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About
+I build **clean, production-ready** apps across web, mobile, and backend.
+
+- **Spring Boot + WebSockets** for real-time code execution  
+- **Next.js (App Router)** frontends with crisp UI/UX  
+- **Supabase/PostgreSQL + DBT** for data workflows  
+- **Docker → Kubernetes** with ingress/Helm + CI/CD
+
+---
+
+### 🧰 Tech Stack
+**Backend:** Java 17, Spring Boot (REST/WebSocket), Maven  
+**Frontend:** Next.js (TS), React, Tailwind, Framer Motion  
+**Mobile:** Flutter (GetX), Material 3  
+**Data:** PostgreSQL, Supabase, SQL, DBT, Iceberg/Snowflake (basics)  
+**Infra:** Docker, Kubernetes (Ingress/Helm), Nginx, CI/CD  
+**Cloud:** AWS (S3, Lambda, Step Functions, EventBridge, Glue)
+
+---
+
+### 🚀 What I’m building
+- **Online Compiler** — Next.js + Spring WebSocket terminal, multi-lang exec, prompt detection  
+- **Tamil Calendar App** — SSG routes per date, Tamil/Gregorian mapping, OG meta, themeable UI  
+- **Portfolio** — Aesthetic, fast, hover-polished sections with App Router + Tailwind
+
+---
+
+### 📌 Featured Repos
+> Pin these for top visibility.
+
+- 🔧 **Online Compiler** — Real-time code exec + interactive I/O  
+- 📅 **Tamil Calendar** — Tamil–Gregorian calendar, events, flags  
+- 🧭 **Portfolio** — Clean sections, animations, dark/light  
+- 🎓 **Ed-Tech Admin (Flutter)** — Supabase auth, quiz engine, summaries
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> This section auto-updates daily from your RSS feed. Add your blog URL in the workflow.
+
+---
+
+### 📊 Stats (because why not)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abulhasan-18&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abulhasan-18&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abulhasan-18&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🧪 Recent Wins
+- Migrated to **Spring WebSocket + STOMP** (more reliable than netty-socketio)  
+- K8s exposure **NodePort → Ingress** (cleaner networking + TLS)  
+- **Prompt detection** for C input (`scanf/getchar/gets`)  
+- Modularized Flutter quiz app with **review/summary flows**
+
+---
+
+### 🗣️ Contact
+**Email:** mdyahasan18@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohammed-abulhasan-256767235/)  
+**Portfolio:** https://abulhasan-portfolio.vercel.app/
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ — strong typing, fewer deps, more shipping.</sub>
+</p>
