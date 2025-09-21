@@ -80,7 +80,7 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 
 ### 🗣️ Contact
 **Email:** mdyahasan18@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohammed-abulhasan-256767235/)  
+**LinkedIn:** https://www.linkedin.com/in/mohammed-abulhasan-256767235/  
 **Portfolio:** https://abulhasan-portfolio.vercel.app/
 
 ---
