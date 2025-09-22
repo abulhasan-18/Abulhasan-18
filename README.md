@@ -44,10 +44,23 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 ### 📌 Featured Repos
 > Pin these for top visibility.
 
-- 🔧 **Online Compiler** — Real-time code exec + interactive I/O  
-- 📅 **Tamil Calendar** — Tamil–Gregorian calendar, events, flags  
-- 🧭 **Portfolio** — Clean sections, animations, dark/light  
-- 🎓 **Ed-Tech Admin (Flutter)** — Supabase auth, quiz engine, summaries
+- 🧭 **Portfolio (Next.js, TS)** — my personal site, animations, dark/light  
+  → https://github.com/abulhasan-18/abulhasan-portfolio
+
+- 🐘 **Spring Boot + Postgres + Docker** — CRUD, Dockerized JDK & DB, ready to ship  
+  → https://github.com/abulhasan-18/springboot-postgress-in-docker
+
+- 🎨 **Random Color Generator (Next.js)** — copy HEX/RGB, responsive UI polish  
+  → https://github.com/abulhasan-18/random-color-generator-next-js
+
+- 📱 **Mobile Calculator (Flutter)** — Material 3, history, scientific mode  
+  → https://github.com/abulhasan-18/mobile-calculator-app
+
+- 🧩 **SQL Problem Solving** — easy→hard sets with schema + answer SQL  
+  → https://github.com/abulhasan-18/sql-problem-solving
+
+- 🎧 **Spotify Data Analysis (Python + MySQL)** — API ingestion, Pandas, SQL  
+  → https://github.com/abulhasan-18/spotify-data-analysis
 
 ---
 
