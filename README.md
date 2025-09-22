@@ -44,23 +44,12 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 ### 📌 Featured Repos
 > Pin these for top visibility.
 
-- 🧭 **Portfolio (Next.js, TS)** — my personal site, animations, dark/light  
-  → https://github.com/abulhasan-18/abulhasan-portfolio
-
-- 🐘 **Spring Boot + Postgres + Docker** — CRUD, Dockerized JDK & DB, ready to ship  
-  → https://github.com/abulhasan-18/springboot-postgress-in-docker
-
-- 🎨 **Random Color Generator (Next.js)** — copy HEX/RGB, responsive UI polish  
-  → https://github.com/abulhasan-18/random-color-generator-next-js
-
-- 📱 **Mobile Calculator (Flutter)** — Material 3, history, scientific mode  
-  → https://github.com/abulhasan-18/mobile-calculator-app
-
-- 🧩 **SQL Problem Solving** — easy→hard sets with schema + answer SQL  
-  → https://github.com/abulhasan-18/sql-problem-solving
-
-- 🎧 **Spotify Data Analysis (Python + MySQL)** — API ingestion, Pandas, SQL  
-  → https://github.com/abulhasan-18/spotify-data-analysis
+- 🧭 **[Portfolio (Next.js, TS)](https://github.com/abulhasan-18/abulhasan-portfolio)** — my personal site, animations, dark/light
+- 🐘 **[Spring Boot + Postgres + Docker](https://github.com/abulhasan-18/springboot-postgress-in-docker)** — CRUD, Dockerized JDK & DB, ready to ship
+- 🎨 **[Random Color Generator (Next.js)](https://github.com/abulhasan-18/random-color-generator-next-js)** — copy HEX/RGB, responsive UI polish
+- 📱 **[Mobile Calculator (Flutter)](https://github.com/abulhasan-18/mobile-calculator-app)** — Material 3, history, scientific mode
+- 🧩 **[SQL Problem Solving](https://github.com/abulhasan-18/sql-problem-solving)** — easy→hard sets with schema + answer SQL
+- 🎧 **[Spotify Data Analysis (Python + MySQL)](https://github.com/abulhasan-18/spotify-data-analysis)** — API ingestion, Pandas, SQL
 
 ---
 
