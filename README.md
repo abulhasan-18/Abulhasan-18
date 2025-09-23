@@ -45,7 +45,7 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 > Pin these for top visibility.
 
 - 🧭 **[Portfolio (Next.js, TS)](https://github.com/abulhasan-18/abulhasan-portfolio)** — my personal site, animations, dark/light
-- 🐘 **[Spring Boot + Postgres + Docker](https://github.com/abulhasan-18/springboot-postgress-in-docker)** — CRUD, Dockerized JDK & DB, ready to ship
+- 🐘 **[Springboot + Postgres + Docker](https://github.com/abulhasan-18/springboot-postgress-in-docker)** — CRUD, Dockerized JDK & DB, ready to ship
 - 🎨 **[Random Color Generator (Next.js)](https://github.com/abulhasan-18/random-color-generator-next-js)** — copy HEX/RGB, responsive UI polish
 - 📱 **[Mobile Calculator (Flutter)](https://github.com/abulhasan-18/mobile-calculator-app)** — Material 3, history, scientific mode
 - 🧩 **[SQL Problem Solving](https://github.com/abulhasan-18/sql-problem-solving)** — easy→hard sets with schema + answer SQL
