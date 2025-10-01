@@ -72,6 +72,10 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🧪 Recent Wins
 - Migrated to **Spring WebSocket + STOMP** (more reliable than netty-socketio)  
 - K8s exposure **NodePort → Ingress** (cleaner networking + TLS)  
@@ -79,6 +83,8 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 - Modularized Flutter quiz app with **review/summary flows**
 
 ---
+
+
 
 ### 🗣️ Contact
 **Email:** mdyahasan18@gmail.com
