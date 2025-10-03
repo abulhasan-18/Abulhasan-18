@@ -48,7 +48,7 @@ I build **clean, production-ready** apps across web, mobile, and backend.
 - 🐘 **[Springboot + Postgres + Docker](https://github.com/abulhasan-18/springboot-postgress-in-docker)** — CRUD, Dockerized JDK & DB, ready to ship
 - 🎨 **[Random Color Generator (Next.js)](https://github.com/abulhasan-18/random-color-generator-next-js)** — copy HEX/RGB, responsive UI polish
 - 📱 **[Mobile Calculator (Flutter)](https://github.com/abulhasan-18/mobile-calculator-app)** — Material 3, history, scientific mode
-- 🧩 **[SQL Problem Solving](https://github.com/abulhasan-18/sql-problem-solving)** — easy → medium → hard sets with schema + answer SQL
+- 🧩 **[SQL Problem Solving](https://github.com/abulhasan-18/sql-problem-solving)** — Easy → medium → hard sets with schema + answer SQL
 - 🎧 **[Spotify Data Analysis (Python + MySQL)](https://github.com/abulhasan-18/spotify-data-analysis)** — API ingestion, Pandas, SQL
 
 ---
