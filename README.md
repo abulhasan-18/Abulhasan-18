@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Mohammed Abulhasan M </h1>
+<h1 align="center">Mohammed Abulhasan </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Software+%26+Data+Engineer;Spring+Boot+%7C+Next.js+%7C+Flutter+%7C+PostgreSQL+%7C+Supabase;Docker+%7C+Kubernetes+%7C+AWS+%7C+DBT;I+ship+fast%2C+measure%2C+iterate." alt="typing" />
